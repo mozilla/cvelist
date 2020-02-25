@@ -1,3 +1,9 @@
+## Firefox Security Advisories
+
+Security Advisories for Firefox and other client applications will use:
+https://wiki.mozilla.org/Security/Firefox/Security_Bug_Life_Cycle/Security_Advisories
+and be published to: https://www.mozilla.org/en-US/security/advisories/
+
 # CVE Automation Working Group Git Pilot
 
 The [CVE Automation Working
